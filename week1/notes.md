@@ -4,3 +4,5 @@
 - TryHackMe: Intro + Linux Fundamentals
 - Practiced Git branching, commits, merges, and SSH authentication
 
+- Day 6 review: re-practiced Git workflow using branches and SSH
+
